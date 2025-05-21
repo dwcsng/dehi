@@ -17,7 +17,7 @@
 ### 1. Clone project
 
 ```sh
-git clone https://github.com/yourusername/barberproject.git
+git clone [https://github.com/yourusername/barberproject.git](https://github.com/dwcsng/dehi)
 cd barberproject
 ```
 
